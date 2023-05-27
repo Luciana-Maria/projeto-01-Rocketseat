@@ -20,11 +20,15 @@ Ambientes únicos para você.
 * Interpretação de layouts (Figma)
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido durante o EXPLORER- programação web  da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o EXPLORER-Programação Web  da Rocketseat com as seguintes tecnologias:
 
 * HTML
 * CSS
 
+## 🏷️ Layout
+Você pode visualizar o layout do projeto através 
+[desse link](https://www.figma.com/file/S0eVwnhDcNHi08GaVVWnVE/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&t=b5VINNGSDLubj2ms-1). 
+É necessário ter uma conta no [Figma](https://www.figma.com)
 
 
 
