@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 095c74527e08e5892fd771b5482421eb7779aae2
 <p align="center">
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
@@ -20,11 +23,18 @@ Ambientes únicos para você.
 * Interpretação de layouts (Figma)
 
 ## 🚀 Tecnologias
+<<<<<<< HEAD
 Esse projeto foi desenvolvido durante o EXPLORER-Programação Web  da Rocketseat com as seguintes tecnologias:
+=======
+Esse projeto foi desenvolvido durante o EXPLORER- programação web da Rocketseat com as seguintes tecnologias:
+>>>>>>> 095c74527e08e5892fd771b5482421eb7779aae2
 
 * HTML
 * CSS
 
+## 🏷️ Layout
+Você pode visualizar o layout do projeto através 
+[desse link](https://www.figma.com/file/S0eVwnhDcNHi08GaVVWnVE/Explorer---Projeto-01-(Copy)?type=design&node-id=0%3A1&t=b5VINNGSDLubj2ms-1). 
+É necessário ter uma conta no [Figma](https://www.figma.com)
 
-
-
+Feito com ❤️ por <strong>Luciana</strong>. Me acompanhe nas [redes sociais!](https://luciana-maria.github.io/Cartao-de-visita-Rocketseat/)
