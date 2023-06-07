@@ -1,8 +1,5 @@
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 095c74527e08e5892fd771b5482421eb7779aae2
 <p align="center">
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
@@ -23,12 +20,6 @@ Ambientes únicos para você.
 * Interpretação de layouts (Figma)
 
 ## 🚀 Tecnologias
-<<<<<<< HEAD
-Esse projeto foi desenvolvido durante o EXPLORER-Programação Web  da Rocketseat com as seguintes tecnologias:
-=======
-Esse projeto foi desenvolvido durante o EXPLORER- programação web da Rocketseat com as seguintes tecnologias:
->>>>>>> 095c74527e08e5892fd771b5482421eb7779aae2
-
 * HTML
 * CSS
 
